@@ -1,8 +1,8 @@
 <project default="compile">
 
 
-    <property name="src.java.dir" location=".softhw/src/soft"/>
-    <property name="src.test.dir" location=".softhw/src/soft"/>
+    <property name="src.java.dir" location="./softhw/src/soft"/>
+    <property name="src.test.dir" location="./softhw/src/soft"/>
     <property name="result.dir" location="./target"/>
     <property name="result.javaclasses.dir" location="${result.dir}/classes"/>
     <property name="result.testclasses.dir" location="${result.dir}/testclasses"/>
@@ -10,7 +10,7 @@
 
 
 
-/
+
 
     <path id="NecessaryLibraries">
         <pathelement location="./UsedLibraries/junit-4.12.jar"/>
