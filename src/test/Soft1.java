@@ -1,5 +1,6 @@
-package soft;
+package test;
 
+import soft;
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.AfterAll;
