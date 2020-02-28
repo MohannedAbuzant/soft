@@ -2,7 +2,7 @@
 
 
     <property name="src.java.dir" location="./src/soft"/>
-    <property name="src.test.dir" location="./src/soft"/>
+    <property name="src.test.dir" location="./src/soft/test"/>
     <property name="result.dir" location="./target"/>
     <property name="result.javaclasses.dir" location="${result.dir}/classes"/>
     <property name="result.testclasses.dir" location="${result.dir}/testclasses"/>
