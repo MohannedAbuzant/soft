@@ -13,9 +13,9 @@
 
 
     <path id="NecessaryLibraries">
-        <pathelement location="./lalib/junit-4.12.jar"/>
+        <pathelement location="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
         <!--matcher-->
-        <pathelement location="./lalib/hamcrest-core-1.3.jar"/>
+        <!-- <pathelement location="./lalib/hamcrest-core-1.3.jar"/> -->
         <!--<pathelement location="./UsedLibraries/jacocoant.jar"/>-->
     </path>
 
